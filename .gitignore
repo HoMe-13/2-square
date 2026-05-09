@@ -1,0 +1,14 @@
+# 本地缓存 & IDE
+__pycache__/
+.idea/
+.vscode/
+.claude/
+
+# 数据文件（太大）
+data/
+models/
+
+# 输出结果（临时生成）
+*.csv
+*.png
+visualization/
